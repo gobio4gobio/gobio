@@ -1,2 +1,0 @@
-# gobio
-“Fix typo”
